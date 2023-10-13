@@ -22,3 +22,7 @@ public class PassFail {
 	}
 
 }
+
+/*
+Output: PASS  */
+

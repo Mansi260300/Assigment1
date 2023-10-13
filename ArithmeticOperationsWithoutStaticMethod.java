@@ -32,3 +32,12 @@ public class ArithmeticOperationsWithoutStaticMethod {
 	}
 
 }
+
+/*
+Output:Sum: 14
+      Diffference: 6
+      Product: 40
+      Quotient: 2
+      Remainder: 2  */
+
+

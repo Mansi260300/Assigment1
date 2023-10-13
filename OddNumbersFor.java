@@ -38,3 +38,20 @@ public class OddNumbersFor {
 	}
       
 }
+
+
+/*
+Output: Using for loop:
+1
+3
+5
+7
+9
+Using while loop:
+1
+3
+5
+7
+9
+Using do-while loop:
+11  */

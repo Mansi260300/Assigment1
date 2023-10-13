@@ -25,3 +25,8 @@ public class CircleWithStaticMethods {
         System.out.println("Circumference of the circle with radius " + radius + " is: " + circumference);
  }
   }
+
+/*
+Output: Using static methods:
+Area of circle with radius 5.0 is: 78.53981633974483
+Circumference of the circle with radius 5.0 is: 31.41592653589793  */

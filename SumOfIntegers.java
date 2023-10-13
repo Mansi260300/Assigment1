@@ -17,3 +17,5 @@ public class SumOfIntegers {
 	}
 
 }
+/*
+Output: Sum of the five integers: 150 */

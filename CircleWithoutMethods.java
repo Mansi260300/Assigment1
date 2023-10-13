@@ -20,5 +20,9 @@ public class CircleWithoutMethods {
 
     
 	}
+/*
+Output: Without using methods:
+Area of the circle with radius 5.0 is: 78.53981633974483
+Circumference of the circle with radius 5.0 is: 31.41592653589793  */
 
 

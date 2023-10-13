@@ -1,4 +1,5 @@
 //area of perimeter of rectangle using static method
+
 public class RectangleWithStaticMethod {
 	 // Static method to calculate the area of a rectangle
     public static double calculateArea(double length, double width) {
@@ -27,4 +28,9 @@ public class RectangleWithStaticMethod {
     }
 }
 
+/*
+Output:
+Using static methods:
+Area of the rectangle with the length 6.0 and width 4.0 is:24.0
+Perimeter of the rectangle with length 6.0 and width 4.0 is:20.0 */
 

@@ -16,3 +16,6 @@ public class VowelConsonantWithoutMethod {
 	}
 
 }
+
+/*
+Output: a is a vowel. */

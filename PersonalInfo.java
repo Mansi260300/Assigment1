@@ -8,10 +8,16 @@ public class PersonalInfo {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Name : Mansi");
-		System.out.println("Hobbies : Rading books, Travelling, Cooking");
-		System.out.println("Favorite Movie : 3 Idtiots");
+		System.out.println("Hobbies : Reading books, Travelling, Cooking");
+		System.out.println("Favorite Movie : 3 Idiots");
 		
 
 	}
 
 }
+
+/*
+Output: 
+Name: Mansi
+Hobbies: Reading books, Travelling, Cooking
+Favourite Movie: 3 Iditos  */

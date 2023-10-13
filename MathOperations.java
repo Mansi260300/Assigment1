@@ -48,4 +48,8 @@ public class MathOperations {
 
 	}
 
+/*
+Output: Product: 100.0  */
+
+
 

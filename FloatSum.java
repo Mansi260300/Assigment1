@@ -19,3 +19,7 @@ public class FloatSum {
 	}
 
 }
+
+/*
+Output: The sum of 5.3 and 3.0 is: 8.3  */
+

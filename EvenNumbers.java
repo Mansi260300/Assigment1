@@ -30,4 +30,25 @@ public class EvenNumbers {
 
 	}
 }
+
+/*
+Output: Using for loop:
+2
+4
+6
+8
+10
+Using while loop:
+2
+4
+6
+8
+10
+Using do-while loop:
+2
+4
+6
+8
+10  */
+
 	

@@ -54,4 +54,12 @@ public class ArithemethicOperationsWithStaticMethods {
     }
 }
 
+/*
+Output: Using static methods:
+Sum: 14
+Difference: 6
+Product: 40
+Quotient: 2
+Remainder: 2  */
+
 

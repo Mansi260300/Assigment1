@@ -18,3 +18,7 @@ public class DoubleVariables {
 	}
 
 }
+
+
+/*
+Output: The difference between 3.5 and 5.7 is: -2.2  */

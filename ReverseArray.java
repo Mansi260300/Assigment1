@@ -15,3 +15,12 @@ public class ReverseArray {
 	}
 
 }
+
+/*
+Output: 
+Array in reverse order:
+5
+4
+3
+2
+1 */

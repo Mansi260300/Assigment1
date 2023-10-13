@@ -19,3 +19,4 @@ public class VowelConsonantWithStaticMethod {
     }
 
 }
+/* a is a vowel. */

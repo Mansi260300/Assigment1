@@ -10,3 +10,7 @@ public class IntegerWithoutUsingVariable {
 	}
 
 }
+
+/*
+Output: Sum of integers without variables:
+        15  */

@@ -37,3 +37,9 @@ public class ArrayInitialization {
 	}
 
 
+/*
+Output:Mansi
+       Priya
+       Namrata
+       Nayan
+       Namu  */  
